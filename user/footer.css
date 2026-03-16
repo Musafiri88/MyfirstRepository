@@ -1,0 +1,21 @@
+footer
+{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 10rem;
+}
+footer span
+{
+    width: 90%;
+    height: 1px;
+    background-color: rgba(128, 128, 128, 0.559);
+}
+
+footer p
+{
+    font-size: x-small;
+    color: rgba(199, 2, 2, 0.701);
+}
